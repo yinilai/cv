@@ -121,8 +121,21 @@ hr{
 
 .experience-row{
   width: 70%;
-  margin: 30px auto 30px auto;
+  margin: 70px auto 70px auto;
   text-align: left;
+  /*line-height: 2; */
+}
+
+.project-row{
+  width: 70%;
+  margin: 70px auto 70px auto;
+  text-align: left;
+  /*line-height: 2; */
+}
+
+.cell{
+  text-align: right;
+  margin-right: 1em;
   /*line-height: 2; */
 }
 
